@@ -19,7 +19,7 @@ You can use this dataset to:
 ## 🗂 Format
 
 - Scripts are provided in `.fountain` format. 📄
-- Annotations are available in '.txt' format. 🔍
+- Annotations are available in `.txt` format. 🔍
 
 ## 📜 License
 
