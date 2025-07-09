@@ -1,4 +1,4 @@
-# 🎬 SceneBreak Benchmark
+# 🎬 SceneBreak
 
 **SceneBreak** is a benchmark dataset designed to evaluate automatic scene breakdown systems on film scripts. It focuses on the challenging task of extracting scene elements such as props, characters, and settings from screenplay text. 🎭✨
 
